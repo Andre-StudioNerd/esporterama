@@ -93,6 +93,7 @@ const EventDetail = () => {
                 className="h-20 w-auto opacity-80"
                 width={80}
                 height={80}
+                priority
               />
             </div>
           ) : (
