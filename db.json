@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "Brasil vs Argentina - Eliminatórias da Copa",
-      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2",
+      "image": "/imagens/futebol.webp",
       "description": "O maior clássico do futebol sul-americano com a Seleção Brasileira Masculina em busca dos três pontos.",
       "date": "2026-09-10",
       "categoryId": 1,
@@ -22,7 +22,7 @@
     {
       "id": 2,
       "name": "Brasil vs Colômbia - Amistoso Internacional",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018",
+      "image": "/imagens/futebol.webp",
       "description": "Amistoso preparatório da Seleção Brasileira Feminina contra a forte seleção colombiana.",
       "date": "2026-10-12",
       "categoryId": 2,
@@ -31,7 +31,7 @@
     {
       "id": 3,
       "name": "Brasil vs Itália - Liga das Nações de Vôlei",
-      "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1",
+      "image": "/imagens/volei.webp",
       "description": "Duelo eletrizante na quadra com a Seleção Masculina disputando a liderança do torneio.",
       "date": "2026-06-18",
       "categoryId": 3,
@@ -40,7 +40,7 @@
     {
       "id": 4,
       "name": "Brasil vs Estados Unidos - Liga das Nações Feminina",
-      "image": "https://images.unsplash.com/photo-1592656094267-764a45160876",
+      "image": "/imagens/volei.webp",
       "description": "As gurias do vôlei encaram a seleção americana em um confronto de alto nível técnico.",
       "date": "2026-07-05",
       "categoryId": 4,
@@ -67,7 +67,7 @@
     {
       "id": 7,
       "name": "Brasil vs Espanha - Copa do Mundo de Futsal",
-      "image": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6",
+      "image": "/imagens/futsal.webp",
       "description": "Gigantes do futsal mundial se enfrentam em um jogo de muita velocidade e habilidade.",
       "date": "2026-10-02",
       "categoryId": 7,
@@ -76,7 +76,7 @@
     {
       "id": 8,
       "name": "Brasil vs Noruega - Campeonato Mundial de Handebol",
-      "image": "https://images.unsplash.com/photo-1569517282132-25d22f4573e6",
+      "image": "/imagens/handebol.webp",
       "description": "Seleção Brasileira Feminina de Handebol em busca de mais uma vitória no Mundial.",
       "date": "2026-12-08",
       "categoryId": 8,
@@ -85,7 +85,7 @@
     {
       "id": 9,
       "name": "Brasil vs Uruguai - Eliminatórias da Copa",
-      "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974",
+      "image": "/imagens/futebol.webp",
       "description": "Clássico do Rio da Prata no futebol masculino com promessa de casa cheia.",
       "date": "2026-11-20",
       "categoryId": 1,
@@ -94,7 +94,7 @@
     {
       "id": 10,
       "name": "Brasil vs França - Copa das Nações Feminina",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12",
+      "image": "/imagens/futebol.webp",
       "description": "Desafio de peso para o futebol feminino brasileiro contra a renovada seleção francesa.",
       "date": "2026-09-28",
       "categoryId": 2,
@@ -103,7 +103,7 @@
     {
       "id": 11,
       "name": "Brasil vs Polônia - Campeonato Mundial de Vôlei",
-      "image": "https://images.unsplash.com/photo-1592656094267-764a45160876",
+      "image": "/imagens/volei.webp",
       "description": "Reencontro de rivalidade histórica no vôlei masculino em partida valendo vaga nas semifinais.",
       "date": "2026-09-05",
       "categoryId": 3,
@@ -112,7 +112,7 @@
     {
       "id": 12,
       "name": "Brasil vs Sérvia - Amistoso Internacional de Vôlei",
-      "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1",
+      "image": "/imagens/volei.webp",
       "description": "Teste crucial para a Seleção Feminina de Vôlei ajustando o time para as grandes competições.",
       "date": "2026-08-10",
       "categoryId": 4,
@@ -139,7 +139,7 @@
     {
       "id": 15,
       "name": "Brasil vs Portugal - Grand Prix de Futsal",
-      "image": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6",
+      "image": "/imagens/futsal.webp",
       "description": "O melhor do futsal em quadra com jogadas ensaiadas e muito dinamismo.",
       "date": "2026-11-05",
       "categoryId": 7,
@@ -148,7 +148,7 @@
     {
       "id": 16,
       "name": "Brasil vs França - Teste Internacional de Handebol",
-      "image": "https://images.unsplash.com/photo-1569517282132-25d22f4573e6",
+      "image": "/imagens/handebol.webp",
       "description": "Jogo preparatório de alto rendimento para as jogadoras da Seleção Brasileira de Handebol.",
       "date": "2026-10-18",
       "categoryId": 8,
@@ -157,7 +157,7 @@
     {
       "id": 17,
       "name": "Brasil vs Chile - Eliminatórias da Copa",
-      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2",
+      "image": "/imagens/futebol.webp",
       "description": "Seleção Brasileira Masculina jogando em casa com apoio total da torcida.",
       "date": "2026-12-01",
       "categoryId": 1,
@@ -166,7 +166,7 @@
     {
       "id": 18,
       "name": "Brasil vs Alemanha - Amistoso Preparatório",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018",
+      "image": "/imagens/futebol.webp",
       "description": "Confronto de gigantes no futebol feminino testando novas táticas e escalações.",
       "date": "2026-11-28",
       "categoryId": 2,
@@ -175,7 +175,7 @@
     {
       "id": 19,
       "name": "Brasil vs França - Liga das Nações de Vôlei",
-      "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1",
+      "image": "/imagens/volei.webp",
       "description": "Duelo de ataque e defesa na quadra masculina com presença dos principais astros do esporte.",
       "date": "2026-06-25",
       "categoryId": 3,
@@ -184,7 +184,7 @@
     {
       "id": 20,
       "name": "Brasil vs Japão - Copa das Campeãs de Vôlei",
-      "image": "https://images.unsplash.com/photo-1592656094267-764a45160876",
+      "image": "/imagens/volei.webp",
       "description": "Volume de jogo defensivo extremo contra a velocidade do ataque japonês na quadra feminina.",
       "date": "2026-09-15",
       "categoryId": 4,
@@ -211,7 +211,7 @@
     {
       "id": 23,
       "name": "Brasil vs Paraguai - Copa América de Futsal",
-      "image": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6",
+      "image": "/imagens/futsal.webp",
       "description": "Futsal de alta intensidade em busca do título continental das seleções masculinas.",
       "date": "2026-07-18",
       "categoryId": 7,
@@ -220,7 +220,7 @@
     {
       "id": 24,
       "name": "Brasil vs Espanha - Torneio Internacional de Handebol",
-      "image": "https://images.unsplash.com/photo-1569517282132-25d22f4573e6",
+      "image": "/imagens/handebol.webp",
       "description": "Encontro entre duas forças do handebol feminino disputando o troféu do torneio.",
       "date": "2026-09-22",
       "categoryId": 8,
@@ -229,7 +229,7 @@
     {
       "id": 25,
       "name": "Brasil vs China - Torneio Internacional de Handebol",
-      "image": "https://images.unsplash.com/photo-1569517282132-25d22f4573e6",
+      "image": "/imagens/handebol.webp",
       "description": "Encontro entre duas forças do handebol feminino disputando o troféu do torneio.",
       "date": "2026-10-22",
       "categoryId": 8,
@@ -238,7 +238,7 @@
     {
       "id": 26,
       "name": "Brasil vs Argentina - Eliminatórias da Copa",
-      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2",
+      "image": "/imagens/futebol.webp",
       "description": "O maior clássico do futebol sul-americano com a Seleção Brasileira Masculina em busca dos três pontos.",
       "date": "2026-11-10",
       "categoryId": 1,
@@ -247,7 +247,7 @@
     {
       "id": 27,
       "name": "Brasil vs China - Amistoso Internacional",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018",
+      "image": "/imagens/futebol.webp",
       "description": "Amistoso preparatório da Seleção Brasileira Feminina contra a forte seleção colombiana.",
       "date": "2026-11-12",
       "categoryId": 2,
@@ -256,7 +256,7 @@
     {
       "id": 28,
       "name": "Brasil vs China - Liga das Nações de Vôlei",
-      "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1",
+      "image": "/imagens/volei.webp",
       "description": "Duelo eletrizante na quadra com a Seleção Masculina disputando a liderança do torneio.",
       "date": "2026-07-18",
       "categoryId": 3,
@@ -265,7 +265,7 @@
     {
       "id": 29,
       "name": "Brasil vs China - Liga das Nações Feminina",
-      "image": "https://images.unsplash.com/photo-1592656094267-764a45160876",
+      "image": "/imagens/volei.webp",
       "description": "As gurias do vôlei encaram a seleção americana em um confronto de alto nível técnico.",
       "date": "2026-08-05",
       "categoryId": 4,
@@ -292,7 +292,7 @@
     {
       "id": 32,
       "name": "Brasil vs China - Copa do Mundo de Futsal",
-      "image": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6",
+      "image": "/imagens/futsal.webp",
       "description": "Gigantes do futsal mundial se enfrentam em um jogo de muita velocidade e habilidade.",
       "date": "2026-10-02",
       "categoryId": 7,
