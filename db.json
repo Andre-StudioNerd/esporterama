@@ -15,7 +15,7 @@
       "name": "Brasil vs Argentina - Eliminatórias da Copa",
       "image": "/imagens/futebol.webp",
       "description": "O maior clássico do futebol sul-americano com a Seleção Brasileira Masculina em busca dos três pontos.",
-      "date": "2026-09-10",
+      "date": "2030-09-10",
       "categoryId": 1,
       "location": "Rio de Janeiro | RJ"
     },
@@ -24,7 +24,7 @@
       "name": "Brasil vs Colômbia - Amistoso Internacional",
       "image": "/imagens/futebol.webp",
       "description": "Amistoso preparatório da Seleção Brasileira Feminina contra a forte seleção colombiana.",
-      "date": "2026-10-12",
+      "date": "2030-10-12",
       "categoryId": 2,
       "location": "São Paulo | SP"
     },
@@ -33,7 +33,7 @@
       "name": "Brasil vs Itália - Liga das Nações de Vôlei",
       "image": "/imagens/volei.webp",
       "description": "Duelo eletrizante na quadra com a Seleção Masculina disputando a liderança do torneio.",
-      "date": "2026-06-18",
+      "date": "2030-06-18",
       "categoryId": 3,
       "location": "Brasília | DF"
     },
@@ -42,7 +42,7 @@
       "name": "Brasil vs Estados Unidos - Liga das Nações Feminina",
       "image": "/imagens/volei.webp",
       "description": "As gurias do vôlei encaram a seleção americana em um confronto de alto nível técnico.",
-      "date": "2026-07-05",
+      "date": "2030-07-05",
       "categoryId": 4,
       "location": "Belo Horizonte | MG"
     },
@@ -51,7 +51,7 @@
       "name": "Brasil vs Uruguai - Copa América de Basquete",
       "image": "/imagens/basquete.webp",
       "description": "A Seleção Brasileira Masculina de Basquete entra em quadra buscando vaga na fase final.",
-      "date": "2026-08-22",
+      "date": "2030-08-22",
       "categoryId": 5,
       "location": "Recife | PE"
     },
@@ -60,7 +60,7 @@
       "name": "Brasil vs Austrália - Torneio Pré-Olímpico",
       "image": "/imagens/basquete.webp",
       "description": "A Seleção Feminina de Basquete disputa partida decisiva pela classificação internacional.",
-      "date": "2026-11-14",
+      "date": "2030-11-14",
       "categoryId": 6,
       "location": "Belém | PA"
     },
@@ -69,7 +69,7 @@
       "name": "Brasil vs Espanha - Copa do Mundo de Futsal",
       "image": "/imagens/futsal.webp",
       "description": "Gigantes do futsal mundial se enfrentam em um jogo de muita velocidade e habilidade.",
-      "date": "2026-10-02",
+      "date": "2030-10-02",
       "categoryId": 7,
       "location": "Curitiba | PR"
     },
@@ -78,7 +78,7 @@
       "name": "Brasil vs Noruega - Campeonato Mundial de Handebol",
       "image": "/imagens/handebol.webp",
       "description": "Seleção Brasileira Feminina de Handebol em busca de mais uma vitória no Mundial.",
-      "date": "2026-12-08",
+      "date": "2030-12-08",
       "categoryId": 8,
       "location": "Porto Alegre | RS"
     },
@@ -87,7 +87,7 @@
       "name": "Brasil vs Uruguai - Eliminatórias da Copa",
       "image": "/imagens/futebol.webp",
       "description": "Clássico do Rio da Prata no futebol masculino com promessa de casa cheia.",
-      "date": "2026-11-20",
+      "date": "2030-11-20",
       "categoryId": 1,
       "location": "Salvador | BA"
     },
@@ -96,7 +96,7 @@
       "name": "Brasil vs França - Copa das Nações Feminina",
       "image": "/imagens/futebol.webp",
       "description": "Desafio de peso para o futebol feminino brasileiro contra a renovada seleção francesa.",
-      "date": "2026-09-28",
+      "date": "2030-09-28",
       "categoryId": 2,
       "location": "Manaus | AM"
     },
@@ -105,7 +105,7 @@
       "name": "Brasil vs Polônia - Campeonato Mundial de Vôlei",
       "image": "/imagens/volei.webp",
       "description": "Reencontro de rivalidade histórica no vôlei masculino em partida valendo vaga nas semifinais.",
-      "date": "2026-09-05",
+      "date": "2030-09-05",
       "categoryId": 3,
       "location": "Goiânia | GO"
     },
@@ -114,7 +114,7 @@
       "name": "Brasil vs Sérvia - Amistoso Internacional de Vôlei",
       "image": "/imagens/volei.webp",
       "description": "Teste crucial para a Seleção Feminina de Vôlei ajustando o time para as grandes competições.",
-      "date": "2026-08-10",
+      "date": "2030-08-10",
       "categoryId": 4,
       "location": "Florianópolis | SC"
     },
@@ -123,7 +123,7 @@
       "name": "Brasil vs Argentina - Amistoso das Américas",
       "image": "/imagens/basquete.webp",
       "description": "Superclássico no basquete masculino garantindo emoção do primeiro ao último segundo.",
-      "date": "2026-07-25",
+      "date": "2030-07-25",
       "categoryId": 5,
       "location": "São Paulo | SP"
     },
@@ -132,7 +132,7 @@
       "name": "Brasil vs Canadá - AmeriCup Feminina",
       "image": "/imagens/basquete.webp",
       "description": "Partida fundamental para o basquete feminino brasileiro rumo ao topo do continente.",
-      "date": "2026-06-30",
+      "date": "2030-06-30",
       "categoryId": 6,
       "location": "Fortaleza | CE"
     },
@@ -141,7 +141,7 @@
       "name": "Brasil vs Portugal - Grand Prix de Futsal",
       "image": "/imagens/futsal.webp",
       "description": "O melhor do futsal em quadra com jogadas ensaiadas e muito dinamismo.",
-      "date": "2026-11-05",
+      "date": "2030-11-05",
       "categoryId": 7,
       "location": "Uberlândia | MG"
     },
@@ -150,7 +150,7 @@
       "name": "Brasil vs França - Teste Internacional de Handebol",
       "image": "/imagens/handebol.webp",
       "description": "Jogo preparatório de alto rendimento para as jogadoras da Seleção Brasileira de Handebol.",
-      "date": "2026-10-18",
+      "date": "2030-10-18",
       "categoryId": 8,
       "location": "Vitória | ES"
     },
@@ -159,7 +159,7 @@
       "name": "Brasil vs Chile - Eliminatórias da Copa",
       "image": "/imagens/futebol.webp",
       "description": "Seleção Brasileira Masculina jogando em casa com apoio total da torcida.",
-      "date": "2026-12-01",
+      "date": "2030-12-01",
       "categoryId": 1,
       "location": "Cuiabá | MT"
     },
@@ -168,7 +168,7 @@
       "name": "Brasil vs Alemanha - Amistoso Preparatório",
       "image": "/imagens/futebol.webp",
       "description": "Confronto de gigantes no futebol feminino testando novas táticas e escalações.",
-      "date": "2026-11-28",
+      "date": "2030-11-28",
       "categoryId": 2,
       "location": "Campinas | SP"
     },
@@ -177,7 +177,7 @@
       "name": "Brasil vs França - Liga das Nações de Vôlei",
       "image": "/imagens/volei.webp",
       "description": "Duelo de ataque e defesa na quadra masculina com presença dos principais astros do esporte.",
-      "date": "2026-06-25",
+      "date": "2030-06-25",
       "categoryId": 3,
       "location": "Natal | RN"
     },
@@ -186,7 +186,7 @@
       "name": "Brasil vs Japão - Copa das Campeãs de Vôlei",
       "image": "/imagens/volei.webp",
       "description": "Volume de jogo defensivo extremo contra a velocidade do ataque japonês na quadra feminina.",
-      "date": "2026-09-15",
+      "date": "2030-09-15",
       "categoryId": 4,
       "location": "João Pessoa | PB"
     },
@@ -195,7 +195,7 @@
       "name": "Brasil vs Porto Rico - Qualificatório de Basquete",
       "image": "/imagens/basquete.webp",
       "description": "Jogo decisivo na caminhada rumo às fases finais dos campeonatos de basquete masculino.",
-      "date": "2026-10-30",
+      "date": "2030-10-30",
       "categoryId": 5,
       "location": "São Luís | MA"
     },
@@ -204,7 +204,7 @@
       "name": "Brasil vs Argentina - Sul-Americano de Basquete",
       "image": "/imagens/basquete.webp",
       "description": "Rivalidade tradicional sul-americana esquentando a quadra no basquete feminino.",
-      "date": "2026-08-04",
+      "date": "2030-08-04",
       "categoryId": 6,
       "location": "Maceió | AL"
     },
@@ -213,7 +213,7 @@
       "name": "Brasil vs Paraguai - Copa América de Futsal",
       "image": "/imagens/futsal.webp",
       "description": "Futsal de alta intensidade em busca do título continental das seleções masculinas.",
-      "date": "2026-07-18",
+      "date": "2030-07-18",
       "categoryId": 7,
       "location": "Foz do Iguaçu | PR"
     },
@@ -222,7 +222,7 @@
       "name": "Brasil vs Espanha - Torneio Internacional de Handebol",
       "image": "/imagens/handebol.webp",
       "description": "Encontro entre duas forças do handebol feminino disputando o troféu do torneio.",
-      "date": "2026-09-22",
+      "date": "2030-09-22",
       "categoryId": 8,
       "location": "Santos | SP"
     },
@@ -231,7 +231,7 @@
       "name": "Brasil vs China - Torneio Internacional de Handebol",
       "image": "/imagens/handebol.webp",
       "description": "Encontro entre duas forças do handebol feminino disputando o troféu do torneio.",
-      "date": "2026-10-22",
+      "date": "2030-10-22",
       "categoryId": 8,
       "location": "Santos | SP"
     },
@@ -240,7 +240,7 @@
       "name": "Brasil vs Argentina - Eliminatórias da Copa",
       "image": "/imagens/futebol.webp",
       "description": "O maior clássico do futebol sul-americano com a Seleção Brasileira Masculina em busca dos três pontos.",
-      "date": "2026-11-10",
+      "date": "2030-11-10",
       "categoryId": 1,
       "location": "Rio de Janeiro | RJ"
     },
@@ -248,8 +248,8 @@
       "id": 27,
       "name": "Brasil vs China - Amistoso Internacional",
       "image": "/imagens/futebol.webp",
-      "description": "Amistoso preparatório da Seleção Brasileira Feminina contra a forte seleção colombiana.",
-      "date": "2026-11-12",
+      "description": "Amistoso preparatório da Seleção Brasileira Feminina contra a forte seleção chinesa.",
+      "date": "2030-11-12",
       "categoryId": 2,
       "location": "São Paulo | SP"
     },
@@ -258,7 +258,7 @@
       "name": "Brasil vs China - Liga das Nações de Vôlei",
       "image": "/imagens/volei.webp",
       "description": "Duelo eletrizante na quadra com a Seleção Masculina disputando a liderança do torneio.",
-      "date": "2026-07-18",
+      "date": "2030-07-18",
       "categoryId": 3,
       "location": "Brasília | DF"
     },
@@ -267,7 +267,7 @@
       "name": "Brasil vs China - Liga das Nações Feminina",
       "image": "/imagens/volei.webp",
       "description": "As gurias do vôlei encaram a seleção americana em um confronto de alto nível técnico.",
-      "date": "2026-08-05",
+      "date": "2030-08-05",
       "categoryId": 4,
       "location": "Belo Horizonte | MG"
     },
@@ -276,7 +276,7 @@
       "name": "Brasil vs Chile - Copa América de Basquete",
       "image": "/imagens/basquete.webp",
       "description": "A Seleção Brasileira Masculina de Basquete entra em quadra buscando vaga na fase final.",
-      "date": "2026-09-22",
+      "date": "2030-09-22",
       "categoryId": 5,
       "location": "Recife | PE"
     },
@@ -285,7 +285,7 @@
       "name": "Brasil vs China - Torneio Pré-Olímpico",
       "image": "/imagens/basquete.webp",
       "description": "A Seleção Feminina de Basquete disputa partida decisiva pela classificação internacional.",
-      "date": "2026-12-14",
+      "date": "2030-12-14",
       "categoryId": 6,
       "location": "Belém | PA"
     },
@@ -294,7 +294,7 @@
       "name": "Brasil vs China - Copa do Mundo de Futsal",
       "image": "/imagens/futsal.webp",
       "description": "Gigantes do futsal mundial se enfrentam em um jogo de muita velocidade e habilidade.",
-      "date": "2026-10-02",
+      "date": "2030-10-02",
       "categoryId": 7,
       "location": "Curitiba | PR"
     }

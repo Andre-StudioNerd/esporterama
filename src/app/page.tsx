@@ -286,7 +286,7 @@ const Home = () => {
             estilização.
           </p>
           <p
-            className="text-xl mb-8"
+            className="text-xl mb-8 text-purple-500"
             style={{ fontFamily: "'Work Sans', sans-serif" }}
           >
             Desenvolvido por André Luís Fernades.
