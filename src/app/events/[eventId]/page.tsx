@@ -232,7 +232,7 @@ const EventDetail = () => {
                     className="text-gray-600"
                     style={{ fontFamily: "'Work Sans', sans-serif" }}
                   >
-                    Organizado por: <strong>Culturama</strong>
+                    Organizado por: <strong>Esporterama</strong>
                   </span>
                 </div>
                 <div className="flex items-center">

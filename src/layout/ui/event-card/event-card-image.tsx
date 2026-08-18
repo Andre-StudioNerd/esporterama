@@ -27,7 +27,7 @@ const EventCardImage = ({
       <div className="w-full h-full bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center relative">
         <Image
           src={fallbackLogo}
-          alt="Culturama"
+          alt="Esporterama"
           width={48}
           height={48}
           className="opacity-70"
