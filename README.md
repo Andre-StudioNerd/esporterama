@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏆 Esporterama
 
-## Getting Started
+Aplicação web desenvolvida para apresentar informações sobre esportes, com uma
+interface moderna, organizada e responsiva.
 
-First, run the development server:
+## 📖 Sobre o Projeto
+
+O **Esporterama** é um projeto Front-End criado para praticar desenvolvimento de
+interfaces, organização de componentes, responsividade e apresentação de
+conteúdos relacionados ao universo esportivo.
+
+## ✨ Funcionalidades
+
+- Exibição de conteúdos esportivos
+- Interface moderna e responsiva
+- Navegação intuitiva
+- Componentização
+- Organização de informações
+
+## 🛠️ Tecnologias Utilizadas
+
+- React
+- TypeScript
+- HTML5
+- CSS3
+- Vite
+- Node.js
+
+## 🚀 Como Executar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/Andre-StudioNerd/esporterama.git
+```
+
+Acesse a pasta:
+
+```bash
+cd esporterama
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Para gerar a versão de produção:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm run build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 Objetivo
 
-## Learn More
+Projeto desenvolvido para praticar React, TypeScript, componentização,
+responsividade e criação de interfaces para apresentação de conteúdo esportivo.
 
-To learn more about Next.js, take a look at the following resources:
+## 👨‍💻 Autor
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**André Luís Fernandes**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+GitHub: https://github.com/Andre-StudioNerd
 
-## Deploy on Vercel
+## 📄 Licença
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Este projeto está licenciado sob a licença MIT.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ⭐ Apoie
+
+Se este projeto foi útil para você, deixe uma ⭐ no repositório.
