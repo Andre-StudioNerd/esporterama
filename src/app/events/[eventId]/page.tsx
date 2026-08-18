@@ -23,7 +23,6 @@ const EventDetail = () => {
   const { getEventById, formatEventDateTime, formatEventDate, upcomingEvents } =
     useEvents();
   const { getCategoryName, getEventsByCategory } = useCategories();
-  const [isFavorite, setIsFavorite] = useState(false);
   const [showShareModal, setShowShareModal] = useState(false);
   const [imageError, setImageError] = useState(false);
 
@@ -75,18 +74,6 @@ const EventDetail = () => {
   const relatedEvents = upcomingEvents
     .filter((e) => e.id !== event.id)
     .slice(0, 3);
-
-  const handleShare = () => {
-    if (navigator.share) {
-      navigator.share({
-        title: event.name,
-        text: `Confira este evento: ${event.name}`,
-        url: window.location.href,
-      });
-    } else {
-      setShowShareModal(true);
-    }
-  };
 
   const copyToClipboard = (text: string) => {
     navigator.clipboard.writeText(text);

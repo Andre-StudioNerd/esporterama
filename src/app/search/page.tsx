@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useEvents } from "@/hooks";
 import { useData } from "@/context";
@@ -8,7 +8,8 @@ import EventCard from "@/layout/ui/event-card";
 import Button from "@/layout/ui/button";
 import { Search as SearchIcon, FilterList, Event } from "@mui/icons-material";
 
-const Search = () => {
+// 1. Componente interno que usa o hook useSearchParams()
+const SearchContent = () => {
   const searchParams = useSearchParams();
   const router = useRouter();
   const query = searchParams.get("q") || "";
@@ -161,4 +162,17 @@ const Search = () => {
   );
 };
 
-export default Search;
+// 2. Export default que envolve o conteúdo no Suspense
+export default function Search() {
+  return (
+    <Suspense
+      fallback={
+        <div className="min-h-screen bg-gray-50 p-8 text-center">
+          Carregando busca...
+        </div>
+      }
+    >
+      <SearchContent />
+    </Suspense>
+  );
+}
