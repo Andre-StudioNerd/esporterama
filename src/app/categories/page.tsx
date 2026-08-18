@@ -179,7 +179,7 @@ const Categories = () => {
                   <div className="mb-2">
                     {index === 0 ? (
                       <EmojiEvents
-                        className="text-yellow-500"
+                        className="text-purple-600"
                         style={{ fontSize: "2rem" }}
                       />
                     ) : index === 1 ? (
@@ -197,7 +197,7 @@ const Categories = () => {
                   <h3 className="text-xl font-fjalla text-gray-800 mb-2">
                     {category.name}
                   </h3>
-                  <p className="text-3xl font-fjalla text-yellow-500 mb-2">
+                  <p className="text-3xl font-fjalla text-purple-600 mb-2">
                     {category.eventCount}
                   </p>
                   <p

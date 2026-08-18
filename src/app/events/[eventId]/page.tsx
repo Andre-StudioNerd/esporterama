@@ -137,7 +137,7 @@ const EventDetail = () => {
         <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
           <div className="max-w-7xl mx-auto">
             <div className="mb-4">
-              <span className="inline-block px-3 py-1 bg-yellow-500 text-black rounded-full text-sm font-medium">
+              <span className="inline-block px-3 py-1 bg-purple-600 text-black rounded-full text-sm font-medium">
                 {getCategoryName(event.categoryId)}
               </span>
             </div>
@@ -257,7 +257,7 @@ const EventDetail = () => {
 
               {isUpcoming ? (
                 <div className="space-y-4">
-                  <div className="text-center py-4 bg-gradient-to-r from-yellow-400 to-orange-500 rounded-lg">
+                  <div className="text-center py-4 bg-gradient-to-r from-purple-600 to-purple-950 rounded-lg">
                     <p className="text-white font-bold text-lg">
                       Ingressos disponíveis
                     </p>

@@ -31,8 +31,8 @@ const Header = () => {
               href="/"
               className={`text-3xl md:text-4xl font-bold tracking-tight transition-colors ${
                 isActiveRoute("/events")
-                  ? "text-yellow-400"
-                  : "text-white hover:text-yellow-400"
+                  ? "text-purple-600"
+                  : "text-white hover:text-purple-800"
               }`}
               style={{ fontFamily: "'Work Sans', sans-serif" }}
             >
@@ -79,8 +79,8 @@ const Header = () => {
               href="/events"
               className={`font-medium transition-colors ${
                 isActiveRoute("/events")
-                  ? "text-yellow-400"
-                  : "text-white hover:text-yellow-400"
+                  ? "text-purple-600"
+                  : "text-white hover:text-purple-800"
               }`}
               style={{ fontFamily: "'Work Sans', sans-serif" }}
             >
@@ -91,8 +91,8 @@ const Header = () => {
               className={`font-medium transition-colors ${
                 isActiveRoute("/categories") ||
                 pathname?.startsWith("/categories/")
-                  ? "text-yellow-400"
-                  : "text-white hover:text-yellow-400"
+                  ? "text-purple-600"
+                  : "text-white hover:text-purple-800"
               }`}
               style={{ fontFamily: "'Work Sans', sans-serif" }}
             >

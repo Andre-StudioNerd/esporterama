@@ -23,7 +23,7 @@ const Home = () => {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
         <div className="text-center">
-          <div className="animate-spin rounded-full h-16 w-16 border-b-2 border-yellow-500 mx-auto mb-4"></div>
+          <div className="animate-spin rounded-full h-16 w-16 border-b-2 border-purple-600 mx-auto mb-4"></div>
           <p className="text-xl font-fjalla text-gray-600">
             Carregando jogos incríveis...
           </p>
@@ -79,7 +79,7 @@ const Home = () => {
       <section className="bg-gradient-to-br from-black via-gray-900 to-black text-white py-16 px-4">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
-            <h1 className="text-4xl md:text-6xl leading-tight md:leading-snug font-fjalla mb-6 bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent">
+            <h1 className="text-4xl md:text-6xl leading-tight md:leading-snug font-fjalla mb-6 bg-gradient-to-r from-purple-600 to-purple-950 bg-clip-text text-transparent">
               Descubra os jogos
             </h1>
             <p
@@ -96,7 +96,7 @@ const Home = () => {
             <div>
               <h2 className="text-2xl md:text-3xl font-fjalla mb-8 text-center flex items-center justify-center gap-3">
                 <Star
-                  className="text-yellow-400"
+                  className="text-purple-600"
                   style={{ fontSize: "2rem" }}
                 />
                 Jogos em Destaque
@@ -144,7 +144,7 @@ const Home = () => {
                 key={category.id}
                 className={`transform transition-all duration-300 hover:scale-105 ${
                   selectedCategory === category.id
-                    ? "ring-4 ring-yellow-400 ring-opacity-50"
+                    ? "ring-4 ring-purple-600 ring-opacity-50"
                     : ""
                 }`}
                 onClick={() => router.push(`/categories/${category.id}`)}
@@ -284,6 +284,12 @@ const Home = () => {
             sem integração com banco de dados real ou interações complexas de
             usuário, servindo como demonstração de estrutura, layout e
             estilização.
+          </p>
+          <p
+            className="text-xl mb-8"
+            style={{ fontFamily: "'Work Sans', sans-serif" }}
+          >
+            Desenvolvido por André Luís Fernades.
           </p>
         </div>
       </section>

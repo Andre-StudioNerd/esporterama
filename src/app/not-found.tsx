@@ -60,7 +60,7 @@ const NotFound = () => {
           <div className="space-y-2">
             <Link
               href="/categories"
-              className="text-yellow-600 hover:text-yellow-500 transition-colors flex items-center gap-2"
+              className="text-purple-600 hover:text-purple-800 transition-colors flex items-center gap-2"
               style={{ fontFamily: "'Work Sans', sans-serif" }}
             >
               <Palette style={{ fontSize: "1.2rem" }} />
