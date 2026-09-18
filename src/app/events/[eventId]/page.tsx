@@ -89,7 +89,7 @@ const EventDetail = () => {
             <div className="w-full h-full bg-gradient-to-br from-gray-300 to-gray-500 flex items-center justify-center">
               <Image
                 src={logo}
-                alt="Culturama"
+                alt="Esporte"
                 className="h-20 w-auto opacity-80"
                 width={80}
                 height={80}
@@ -316,7 +316,7 @@ const EventDetail = () => {
                     className="text-gray-600 text-sm"
                     style={{ fontFamily: "'Work Sans', sans-serif" }}
                   >
-                    contato@culturama.com
+                    contato@espor.com
                   </span>
                 </div>
                 <div className="flex items-center">
