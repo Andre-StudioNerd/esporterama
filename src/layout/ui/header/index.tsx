@@ -26,10 +26,10 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           {/* Logo */}
-          <div className="flex-shrink-0">
+          <div className="flex-shrink-0 px-[15px]">
             <Link
               href="/"
-              className={`px-[15px] text-3xl md:text-4xl font-bold tracking-tight transition-colors ${
+              className={`text-3xl md:text-4xl font-bold tracking-tight transition-colors ${
                 isActiveRoute("/events")
                   ? "text-purple-600"
                   : "text-white hover:text-purple-800"
