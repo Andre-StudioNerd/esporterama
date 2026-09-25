@@ -40,7 +40,7 @@
     {
       "id": 4,
       "name": "Brasil vs Estados Unidos - Liga das Nações Feminina",
-      "image": "/imagens/volei.webp",
+      "image": "/imagens/volei02.webp",
       "description": "As gurias do vôlei encaram a seleção americana em um confronto de alto nível técnico.",
       "date": "2030-07-05",
       "categoryId": 4,
@@ -103,7 +103,7 @@
     {
       "id": 11,
       "name": "Brasil vs Polônia - Campeonato Mundial de Vôlei",
-      "image": "/imagens/volei.webp",
+      "image": "/imagens/volei03.webp",
       "description": "Reencontro de rivalidade histórica no vôlei masculino em partida valendo vaga nas semifinais.",
       "date": "2030-09-05",
       "categoryId": 3,
@@ -112,7 +112,7 @@
     {
       "id": 12,
       "name": "Brasil vs Sérvia - Amistoso Internacional de Vôlei",
-      "image": "/imagens/volei.webp",
+      "image": "/imagens/volei04.webp",
       "description": "Teste crucial para a Seleção Feminina de Vôlei ajustando o time para as grandes competições.",
       "date": "2030-08-10",
       "categoryId": 4,
@@ -175,7 +175,7 @@
     {
       "id": 19,
       "name": "Brasil vs França - Liga das Nações de Vôlei",
-      "image": "/imagens/volei.webp",
+      "image": "/imagens/volei05.webp",
       "description": "Duelo de ataque e defesa na quadra masculina com presença dos principais astros do esporte.",
       "date": "2030-06-25",
       "categoryId": 3,
@@ -184,7 +184,7 @@
     {
       "id": 20,
       "name": "Brasil vs Japão - Copa das Campeãs de Vôlei",
-      "image": "/imagens/volei.webp",
+      "image": "/imagens/volei06.webp",
       "description": "Volume de jogo defensivo extremo contra a velocidade do ataque japonês na quadra feminina.",
       "date": "2030-09-15",
       "categoryId": 4,
@@ -256,7 +256,7 @@
     {
       "id": 28,
       "name": "Brasil vs China - Liga das Nações de Vôlei",
-      "image": "/imagens/volei.webp",
+      "image": "/imagens/volei07.webp",
       "description": "Duelo eletrizante na quadra com a Seleção Masculina disputando a liderança do torneio.",
       "date": "2030-07-18",
       "categoryId": 3,
@@ -265,7 +265,7 @@
     {
       "id": 29,
       "name": "Brasil vs China - Liga das Nações Feminina",
-      "image": "/imagens/volei.webp",
+      "image": "/imagens/volei03.webp",
       "description": "As gurias do vôlei encaram a seleção americana em um confronto de alto nível técnico.",
       "date": "2030-08-05",
       "categoryId": 4,
