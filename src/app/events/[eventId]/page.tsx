@@ -191,9 +191,6 @@ const EventDetail = () => {
                 >
                   {event.location}
                 </p>
-                <button className="text-blue-500 hover:text-blue-600 text-sm mt-2 underline">
-                  Ver no mapa
-                </button>
               </div>
             </div>
 

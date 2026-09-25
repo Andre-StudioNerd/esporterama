@@ -193,7 +193,7 @@
     {
       "id": 21,
       "name": "Brasil vs Porto Rico - Qualificatório de Basquete",
-      "image": "/imagens/basquete.webp",
+      "image": "/imagens/basquete03.webp",
       "description": "Jogo decisivo na caminhada rumo às fases finais dos campeonatos de basquete masculino.",
       "date": "2030-10-30",
       "categoryId": 5,
@@ -202,7 +202,7 @@
     {
       "id": 22,
       "name": "Brasil vs Argentina - Sul-Americano de Basquete",
-      "image": "/imagens/basquete.webp",
+      "image": "/imagens/basquete04.webp",
       "description": "Rivalidade tradicional sul-americana esquentando a quadra no basquete feminino.",
       "date": "2030-08-04",
       "categoryId": 6,
@@ -274,7 +274,7 @@
     {
       "id": 30,
       "name": "Brasil vs Chile - Copa América de Basquete",
-      "image": "/imagens/basquete.webp",
+      "image": "/imagens/basquete05.webp",
       "description": "A Seleção Brasileira Masculina de Basquete entra em quadra buscando vaga na fase final.",
       "date": "2030-09-22",
       "categoryId": 5,
@@ -283,7 +283,7 @@
     {
       "id": 31,
       "name": "Brasil vs China - Torneio Pré-Olímpico",
-      "image": "/imagens/basquete.webp",
+      "image": "/imagens/basquete06.webp",
       "description": "A Seleção Feminina de Basquete disputa partida decisiva pela classificação internacional.",
       "date": "2030-12-14",
       "categoryId": 6,
