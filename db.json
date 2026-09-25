@@ -22,7 +22,7 @@
     {
       "id": 2,
       "name": "Brasil vs Colômbia - Amistoso Internacional",
-      "image": "/imagens/futebol.webp",
+      "image": "/imagens/futebol02.webp",
       "description": "Amistoso preparatório da Seleção Brasileira Feminina contra a forte seleção colombiana.",
       "date": "2030-10-12",
       "categoryId": 2,
@@ -85,7 +85,7 @@
     {
       "id": 9,
       "name": "Brasil vs Uruguai - Eliminatórias da Copa",
-      "image": "/imagens/futebol.webp",
+      "image": "/imagens/futebol03.webp",
       "description": "Clássico do Rio da Prata no futebol masculino com promessa de casa cheia.",
       "date": "2030-11-20",
       "categoryId": 1,
@@ -94,7 +94,7 @@
     {
       "id": 10,
       "name": "Brasil vs França - Copa das Nações Feminina",
-      "image": "/imagens/futebol.webp",
+      "image": "/imagens/futebol04.webp",
       "description": "Desafio de peso para o futebol feminino brasileiro contra a renovada seleção francesa.",
       "date": "2030-09-28",
       "categoryId": 2,
@@ -157,7 +157,7 @@
     {
       "id": 17,
       "name": "Brasil vs Chile - Eliminatórias da Copa",
-      "image": "/imagens/futebol.webp",
+      "image": "/imagens/futebol05.webp",
       "description": "Seleção Brasileira Masculina jogando em casa com apoio total da torcida.",
       "date": "2030-12-01",
       "categoryId": 1,
@@ -166,7 +166,7 @@
     {
       "id": 18,
       "name": "Brasil vs Alemanha - Amistoso Preparatório",
-      "image": "/imagens/futebol.webp",
+      "image": "/imagens/futebol07.webp",
       "description": "Confronto de gigantes no futebol feminino testando novas táticas e escalações.",
       "date": "2030-11-28",
       "categoryId": 2,
@@ -247,7 +247,7 @@
     {
       "id": 27,
       "name": "Brasil vs China - Amistoso Internacional",
-      "image": "/imagens/futebol.webp",
+      "image": "/imagens/futebol08.webp",
       "description": "Amistoso preparatório da Seleção Brasileira Feminina contra a forte seleção chinesa.",
       "date": "2030-11-12",
       "categoryId": 2,
