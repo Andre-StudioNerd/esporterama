@@ -139,7 +139,7 @@
     {
       "id": 15,
       "name": "Brasil vs Portugal - Grand Prix de Futsal",
-      "image": "/imagens/futsal.webp",
+      "image": "/imagens/futsal02.webp",
       "description": "O melhor do futsal em quadra com jogadas ensaiadas e muito dinamismo.",
       "date": "2030-11-05",
       "categoryId": 7,
@@ -211,7 +211,7 @@
     {
       "id": 23,
       "name": "Brasil vs Paraguai - Copa América de Futsal",
-      "image": "/imagens/futsal.webp",
+      "image": "/imagens/futsal03.webp",
       "description": "Futsal de alta intensidade em busca do título continental das seleções masculinas.",
       "date": "2030-07-18",
       "categoryId": 7,
@@ -292,7 +292,7 @@
     {
       "id": 32,
       "name": "Brasil vs China - Copa do Mundo de Futsal",
-      "image": "/imagens/futsal.webp",
+      "image": "/imagens/futsal04.webp",
       "description": "Gigantes do futsal mundial se enfrentam em um jogo de muita velocidade e habilidade.",
       "date": "2030-10-02",
       "categoryId": 7,
