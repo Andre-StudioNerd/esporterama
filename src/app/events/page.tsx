@@ -27,7 +27,7 @@ const Events = () => {
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-fjalla text-gray-800 mb-4 flex items-center justify-center gap-3">
-            <Event className="text-orange-500" style={{ fontSize: "3rem" }} />
+            <Event className="text-purple-500" style={{ fontSize: "3rem" }} />
             Todos os Jogos
           </h1>
           <p
