@@ -29,7 +29,7 @@ const Header = () => {
           <div className="flex-shrink-0">
             <Link
               href="/"
-              className={`text-3xl md:text-4xl font-bold tracking-tight transition-colors ${
+              className={`px-[15px] text-3xl md:text-4xl font-bold tracking-tight transition-colors ${
                 isActiveRoute("/events")
                   ? "text-purple-600"
                   : "text-white hover:text-purple-800"
