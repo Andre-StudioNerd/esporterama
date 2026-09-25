@@ -9,7 +9,6 @@ import {
   ConfirmationNumber,
   Celebration,
   ArrowBack,
-  AccessTime,
   Phone,
   Email,
 } from "@mui/icons-material";
@@ -171,10 +170,6 @@ const EventDetail = () => {
                   className="text-sm text-gray-500 mt-2"
                   style={{ fontFamily: "'Work Sans', sans-serif" }}
                 >
-                  <AccessTime
-                    className="inline mr-1"
-                    style={{ fontSize: "1rem" }}
-                  />
                   {isUpcoming ? "20:00 hrs" : "Jogo já realizado"}
                 </p>
               </div>
