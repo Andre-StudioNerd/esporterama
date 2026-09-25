@@ -148,7 +148,7 @@
     {
       "id": 16,
       "name": "Brasil vs França - Teste Internacional de Handebol",
-      "image": "/imagens/handebol.webp",
+      "image": "/imagens/handebol02.webp",
       "description": "Jogo preparatório de alto rendimento para as jogadoras da Seleção Brasileira de Handebol.",
       "date": "2030-10-18",
       "categoryId": 8,
@@ -220,7 +220,7 @@
     {
       "id": 24,
       "name": "Brasil vs Espanha - Torneio Internacional de Handebol",
-      "image": "/imagens/handebol.webp",
+      "image": "/imagens/handebol03.webp",
       "description": "Encontro entre duas forças do handebol feminino disputando o troféu do torneio.",
       "date": "2030-09-22",
       "categoryId": 8,
@@ -229,7 +229,7 @@
     {
       "id": 25,
       "name": "Brasil vs China - Torneio Internacional de Handebol",
-      "image": "/imagens/handebol.webp",
+      "image": "/imagens/handebol04.webp",
       "description": "Encontro entre duas forças do handebol feminino disputando o troféu do torneio.",
       "date": "2030-10-22",
       "categoryId": 8,
