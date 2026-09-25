@@ -289,7 +289,7 @@ const Home = () => {
             className="text-xl mb-8 text-purple-500"
             style={{ fontFamily: "'Work Sans', sans-serif" }}
           >
-            Desenvolvido por André Luís Fernades.
+            2026 - Desenvolvido por André Luís Fernades.
           </p>
         </div>
       </section>
