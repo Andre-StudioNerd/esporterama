@@ -175,7 +175,7 @@ const EventDetail = () => {
                     className="inline mr-1"
                     style={{ fontSize: "1rem" }}
                   />
-                  {isUpcoming ? "Jogo próximo" : "Jogo já realizado"}
+                  {isUpcoming ? "20:00 hrs" : "Jogo já realizado"}
                 </p>
               </div>
 
