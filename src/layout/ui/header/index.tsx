@@ -74,7 +74,7 @@ const Header = () => {
             </form>
           </div>
 
-          <nav className="flex gap-6">
+          <nav className="flex gap-6 px-[15px]">
             <Link
               href="/events"
               className={`font-medium transition-colors ${
